@@ -1,0 +1,243 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Historical
+
+## Skin
+
+### Button
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = اشتراک گذاری
+
+### Dropdown
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = موزه ها
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = اقامتگاه ها
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = جاذبه های تاریخی
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = میراث جهانی
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = جاذبه های طبیعی
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = جاذبه های مذهبی
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;text-indent:120px;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'B Mitra';"><B>آرکابوم</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;text-indent:75px;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'B Mitra';"><B>  جستجو در سرزمین کهن</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.75vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;text-indent:15px;font-size:1.7486338797814207vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.75vh;font-family:'B Mitra';">آرکابوم جستجو در تاریخ و فرهنگ سرزمینمان را در هر زمان و مکانی برای همگان فراهم کرده است.  ما تاریخ ، فرهنگ، هنر و طبیعت  ایران را یک جا گرد آورده ایم تا تجربه ای متفاوت را همراه با فناوری برای شما به ارمغان آوریم</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;text-indent:120px;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'B Mitra';"><B>ارتباط با ما</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.9599999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'B Mitra';"><B>Info@Archaboom.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0700000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.310000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+
+### Label
+Label_032A6B0F_36C3_CCC5_419B_781FB3D3EFAB.text = مجموعه جهانی میدان نقش جهان- اصفهان- دوره صفویه
+Label_032A7B0C_36C3_CCCB_41BB_E9366EDBFFE5.text = رزرو اقامتگاه
+Label_032ABB03_36C3_CCBC_41C3_4D2E7C032F25.text = بازدید کامل مجموعه
+Label_0512797B_3641_4F4C_4193_1B3F562AE869.text = خانه تاریخی آقازاده- یزد - ابرکوه - دوره قاجار
+Label_0513197A_3641_4F4C_41B3_1CF620708C3B.text = رزرو اقامتگاه
+Label_0513B978_3641_4F4C_41B5_686A65922D25.text = بازدید کامل مجموعه
+Label_05453A55_36BF_4D45_41C4_8713A9F45FF6.text = رزرو اقامتگاه
+Label_0545EA51_36BF_4D5D_415A_F29350FD7020.text = بازدید کامل مجموعه
+Label_0546AA57_36BF_4D44_4198_E032CDC182FB.text = غار پارینه سنگی دربند- گیلان - رستم آباد - دوره پارینه سنگی 
+Label_0573332B_36C2_DCCC_41B4_6E933E50598E.text = مجموعه دیوار بزرگ گرگان - گلستان - دوره ساسانی
+Label_05744328_36C2_DCCC_4196_F4786367B97E.text = رزرو اقامتگاه
+Label_0575D324_36C2_DCC4_41B2_CB322180B109.text = بازدید کامل مجموعه
+Label_05A0A863_36BE_CD7C_4195_6E47E7F1CC19.text = بازدید کامل مجموعه
+Label_05A1B864_36BE_CD44_41C8_E469A8762E61.text = رزرو اقامتگاه
+Label_05A21866_36BE_CD44_41AD_7745EB55BEFF.text = تپه باستانی حصار - سمنان- دامغان- پیش از تاریخ
+Label_05B0190A_36C7_CCCC_41CB_94CDFEEC109C.text = بازدید کامل مجموعه
+Label_05B13910_36C7_CCDC_41CB_1EA677826F1C.text = مجموعه کوه خواجه - سیستان - زابل- دوره اشکانی و ساسانی
+Label_05B1C90D_36C7_CCC4_419A_DD2D394DF9BF.text = رزرو اقامتگاه
+Label_06FEB141_3EC3_C3A5_41C0_D4BE7324C3E2.text = مجموعه جهانی زیگورات چغازنبیل - هفت تپه - خوزستان - دوره ایلام
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = LOREM
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = DOLOR SIT AMET
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = آرکابوم ( جستجو در سرزمین کهن)
+Label_194A3BD1_3E41_46A5_41AD_4006700A9544.text = بازدید کامل مجموعه
+Label_199A8330_3E41_47E3_41C1_83B75CE3BAAD.text = رزرو اقامتگاه
+Label_24B039DC_3E39_FB3E_41CC_D124D88BCA02.text = مجموعه جهانی تخت سلیمان - آذربایجان غربی - تکاب - دوره ساسانی
+Label_24BEA9D6_3E39_FB0A_41C5_384DDA69DFB2.text = بازدید کامل مجموعه
+Label_24BF99D9_3E39_FB06_41CB_A02681E0FCD4.text = رزرو اقامتگاه
+Label_2523AD3D_3E2B_3B7E_4161_38DE291F1646.text = بازدید کامل مجموعه
+Label_252D4D40_3E2B_3B06_41C4_CE386EFABF87.text = رزرو اقامتگاه
+Label_252DCD44_3E2B_3B0D_41C9_B326D851A852.text = مدرس ابن سینا - اصفهان - دوره ال بویه
+Label_25F80E8D_3E39_191F_41CC_7325C74AB2CF.text = رزرو اقامتگاه
+Label_25F89E8A_3E39_1905_41C0_BF9939F01CBE.text = بازدید کامل مجموعه
+Label_25F9FE8F_3E39_191A_41C9_CA8D541A5C81.text = محله ارباب جمشید  (گذر گالری) - تهران
+Label_25FEF171_3E39_0B06_41C7_1132E7DCD313.text = بازدید کامل مجموعه
+Label_25FF1175_3E39_0B0E_41B6_FD0EE96C3AC3.text = رزرو اقامتگاه
+Label_25FFD178_3E39_0B05_41CE_47A57F6DE15E.text = تپه باستانی گوهر تپه - مازندران - بهشهر - پیش از تاریخ
+Label_26F4C32B_3E2F_0F1A_41C0_E6EE2E4E0FB3.text = عمارت گوریه - ایلام- دوره ساسانی
+Label_26F5732A_3E2F_0F1A_41CA_BF6C675ACC95.text = رزرو اقامتگاه
+Label_26F5F329_3E2F_0F06_41B1_F7CA75B78B18.text = بازدید کامل مجموعه
+Label_28B15CE4_3E1B_190E_41C3_CB05118E90A9.text = مسجد تاریخانه - سمنان - دامغان -  اوایل اسلام
+Label_28B60CE3_3E1B_190A_41C2_0FDB295382A1.text = بازدید کامل مجموعه
+Label_28B65CE4_3E1B_190E_41C5_FD3A06052319.text = رزرو اقامتگاه
+Label_2926CF01_3E29_1706_4198_BB56118EA668.text = بازدید کامل مجموعه
+Label_29272F04_3E29_170E_41B8_85A129CDD37F.text = رزرو اقامتگاه
+Label_2927CF07_3E29_170B_41CA_15304111F56C.text = بافت تاریخی زواره - اصفهان
+Label_502D8727_725D_BC8D_41DD_100944FE8C0C.text = باغ اکبریه - خراسان جنوبی - بیرجند - دوره قاجار
+Label_50690846_7775_A719_41D5_00AA52FAF061.text = جنگل مهروئیه فاریاب - کرمان - کهنوج
+Label_5125EBA3_7245_CB84_41DC_C95C3AFFA5E5.text = بافت تاریخی یزد (کهن ترین بافت تاریخی زنده دنیا)
+Label_5136C4F8_7244_DD83_41C9_149D12881FE1.text = مسجد شاه - اصفهان - میدان نقش جهان - دوره صفویه
+Label_5154EF29_725D_CC85_41CA_C86BF94C3879.text = مجموعه تخت جمشید - فارس - مرودشت - دوره هخامنشی
+Label_51A856D4_7244_5D83_41D4_3DB11C8FA574.text = شهر سوخته - سیستان - زابل - دوره پیش از تاریخ
+Label_51E5DEA1_7245_CD85_4197_879A10B9F90D.text = مسجد شیخ لطف الله - اصفهان - میدان نقش جهان - دوره صفویه
+Label_51FD1705_725F_DC8D_41CE_AE8CD592E325.text = مجموعه نقش رستم - فارس - مردوشت - دوره هخامنشی و ساسانی
+Label_52142C93_774C_BF3F_41DC_424901C36B9C.text = رودخانه دز - خوزستان - شوش
+Label_522A448B_7774_AF2F_41D8_E9EAE0739E41.text = غار جفریز - کرمان - بافت
+Label_52981EF1_7774_98FB_41D8_4C19F1A14180.text = نخلستان - کرمان - فهرج
+Label_5335E5F9_7773_A8EB_41D1_CB3AA2C3C162.text = دره مزار شاه - کرمان - راور
+Label_533B2F97_7775_9927_4184_DFA90335E6D8.text = زیستگاه اوروس - کرمان - رابر
+Label_5382907F_774C_A7E7_41B9_1973A69CF920.text = کویر کاراکال - یزد
+Label_546C280D_774D_E72B_41D1_BD4927EC4731.text = منطقه تفریحی دارآباد - تهران
+Label_54E8522A_777C_AB69_41CF_70D43AB0ED68.text = نبکاه های فهرج - کرمان - فهرج
+Label_55132A23_777F_9B1F_41D2_3DC0EA3F2FFA.text = دره گوی هوگ - کرمان - رابر
+Label_55AC729D_7774_EB2B_41DA_B632FCD1E9FB.text = منطقه حفاظت شده پرور - سمنان
+Label_5617D4C2_7773_EF19_41DA_2416519C9F5D.text = آبشار کشیت - کرمان - گلباف
+Label_575C9B6D_7777_99EB_41C7_B77130B8A5C1.text = دریاچه و کوه هامون - سیستان - زابل
+Label_58016855_4262_B987_41CB_1A2107FDF6E6.text = روستای تاریخی مجن- سمنان
+Label_586B9BBA_426D_BE8D_4175_EC080AF4F0B9.text = روستای تاریخی بیابانک - سمنان
+Label_5936AFF7_4262_9683_41D0_1A7E9E70E4A9.text = بافت تاریخی سرخه - سمنان
+Label_5963EADB_4263_FE83_41C6_8AEF228DE828.text = بافت تاریخی ابیانه - استان اصفهان
+Label_5A59CA3A_77CD_9B69_41D5_23B3C2B679EF.text = جنگل کهور - کرمان - فهرج
+Label_5A6FC3B1_724D_DB85_41A0_7A8EB6BDEFA0.text = باغ فین - اصفهان - کاشان - دوره صفویه
+Label_5C14FB3F_4267_9F83_41C4_099A7A3F2883.text = کاروانسرای میاندشت - سمنان - میامی - دوره صفویه
+Label_5C583599_4265_8A8F_41C5_1C3422291C9E.text = کاخ سعد آباد - تهران - دوره پهلوی
+Label_5C592CBA_4262_FA8D_41C8_202E9F90EC93.text = قلعه بسطام - آدربایجان غربی - چایپاره - دوره اورارتویی 
+Label_5D6979F9_724C_D784_41CB_C606531C2250.text = برج گنبد قابوس - گلستان - گنبد - دوره آل زیار
+Label_5DA37CF3_4265_BA9C_4161_CA5F630ACBA2.text = تپه باستانی قلی درویش - قم - دوره پیش از تاریخ
+Label_5DBCBBDE_427F_7E85_41BB_BC6303757E9A.text = قایق تاریخی قوروق - گیلان - تالش - دوره قاجار
+Label_5E06B14A_725B_F484_41D9_55F83E5E07E9.text = آرامگاه کوروش - فارس - پاسارگاد- دوره هخامنشی
+Label_5EEFC926_7244_D488_41DA_F71B935773B1.text = کاخ عالی قاپو- اصفهان - میدان نقش جهان - دوره صفویه
+Label_5F3CBDEF_724B_CF9C_41BF_3F109CC167B2.text = مجموعه نقش رجب - فارس - مرودشت - دوره هخامنشی
+Label_6308FA2C_4E66_833E_41BA_F8527351084B.text = محوطه باستانی قومس - سمنان - دامغان - پیش از تاریخ تا اسلامی
+Label_630B25C0_4E63_8166_41B5_B4A86691F432.text = تپه باستانی قبرستان - قزوین - سگزآباد - پیش از تاریخ
+Label_6326FDBA_4E67_811A_41C8_9AF517412749.text = گور وستمین - مازندران- کیاسر- دوره اشکانی
+Label_63283C4A_4E66_877A_4196_BCE4C5637846.text = باغ امیرآباد - خراسان جنوبی -  بیرجند- دوره قاجار
+Label_63522382_4E62_81EA_41C0_502A10AECACC.text = بافت تاریخی نایین - استان اصفهان
+Label_636AF8B0_4E7D_8F26_4196_7EA847A0D6E5.text = شهر باستانی دهانه غلامان - سیستان - دوره هخامنشی
+Label_637D0A61_427E_99BF_41BD_4D88301CD5F4.text = قلعه سارو جنوبی - سمنان - دوره اسماعیلیه
+Label_644C0D0C_4E63_86FE_41A7_B0D9E2427EF4.text = قلعه سریزد - یزد - مهریز - دوره ساسانی 
+Label_64C7AAB8_4E6F_8326_4178_1223C94EAEE1.text = میدان آزادی - تهران - دوره پهلوی
+Label_64E900B0_4E6D_FF27_41D1_F198FEBEEC64.text = مسجد فرومد - سمنان- میامی - دوره خوارزمشاهیان
+Label_6520FE53_7754_BB3F_41C6_7CC648F6DA39.text = موزه ملی فرش - تهران 
+Label_65454C5F_4E6F_871A_41CB_00B6B4C5F614.text = تپه باستانی میمون آباد - تهران - رباط کریم - دوره پیش از تاریخ
+Label_659B7567_4E65_812A_4192_358CCD7AC448.text = کارگاه کاوش بازار حضرتی - تهران - بازار بزرگ - دوره صفویه
+Label_65C904FA_775C_68E8_41AE_379571E4B4C5.text = کاروانسرای میاندشت - سمنان - میامی - دوره صفویه
+Label_65E437C5_7754_A91B_41B8_ECB34C9E2E05.text = خانه بروجردی ها - اصفهان - کاشان - دوره قاجار
+Label_664EBA90_4E66_83E6_41CE_9441B6DC920A.text = دورنمای شهر شیراز
+Label_66A8812B_7757_A968_41CB_2DF8D3208863.text = موزه بازار - تهران
+Label_66B2A813_4E66_8EEA_41BA_F82EE443D48A.text = بافت تاریخی شیراز
+Label_677C1904_4E62_8EEE_41C6_D6FAE03B954A.text = بافت تاریخی همدان 
+Label_67F202F1_4E5E_8326_41BB_4FDACDCBE403.text = برج مهماندوست - سمنان - دامغان - دوره سلجوقی
+Label_6909FE11_774F_BB3B_41B2_2FB653DFD3B4.text = معدن نمک گرمسار - سمنان - گرمسار
+Label_692985F5_774D_A8FB_41BE_4DBB5869C175.text = پارک ملی گلستان
+Label_6957E28D_725C_C2B0_41DC_4C78BA8C5992.text = شهر تاریخی جرجان -گلستان - گنبد - دوره - قرن 5 و 6 ه.ق 
+Label_6A213212_774C_EB39_41C9_2346505D49F4.text = جنگل ابر - سمنان - شاهرود
+Label_6ADA2909_774C_B92B_41D2_9E601A25207B.text = باداب سورت - مازندران
+Label_6C17FFEE_724B_C273_4192_2F33D98E0B08.text = مسجد زواره - اصفهان - زواره - دوره سلجوقی
+Label_6C4A5BE6_7244_C273_41DC_5FEF6323A1F7.text = آرامگاه شیخ حسن خرقانی - سمنان - شاهرود - دوره ایلخانی 
+Label_6C5661F6_7244_5E53_41C9_F2D8724DA1DD.text = مسجد تاریخانه - سمنان - دامغان - اوایل اسلام
+Label_6C740C3A_724D_C5D0_41D6_684DF02DAFE2.text = آتشکده چارقاپی - کرمانشاه - قصرشیرین - دوره ساسانی
+Label_6C79EBB2_7244_42D0_41D3_59E130BA5A0A.text = مجموعه بایزید - سمنان - بسطام - دوره سلجوقی، ایلخانی و تیموری
+Label_6FC5A4B1_724C_46D0_41CC_6D0360ECFC1E.text = کلیسای تادئوس مقدس - آذربایجان غربی - چالدران - دوره ساسانی
+Label_780DB91D_4E62_811E_41CE_9B4EB617B572.text = کاروانسرای میاندشت - سمنان- میامی - دوره صفویه
+Label_782E914C_4E63_817E_41C8_6EED0447EE50.text = کاروانسرای قصر بهرام - سمنان- گرمسار - دوره صفویه
+Label_783511C6_3641_DF47_41C5_3E62525C198B.text = بازدید کامل مجموعه
+Label_783B21CA_3641_DF4F_41C1_A77650BF8CF7.text = سایت موزه بندیان درگز - خراسان رضوی- درگز - دوره ساسانی
+Label_783B91C7_3641_DF45_41A7_1D9740444EF1.text = رزرو اقامتگاه
+Label_78C801B1_4E5D_8126_41B6_772A35C43D98.text = شیر قلعه - سمنان - شهمیرزاد 
+Label_79A0BDFC_3647_C74B_41C4_EA9927CE9ACD.text = موزه ملی ایران - موزه ایران باستان - تهران 
+Label_79A6EDF9_3647_C74D_41A0_070481237E12.text = بازدید کامل مجموعه
+Label_79A76DFA_3647_C74F_41A1_94C3C286EF5C.text = رزرو اقامتگاه
+Label_7A15603F_4E25_BF1A_4184_83AA5184C97D.text = بافت تاریخی تهران 
+Label_7A39013D_4E27_811E_41BA_973DDC46D921.text = روستای تاریخی کشیت - کرمان - گلباف 
+Label_7AF09A64_4E23_832E_41C2_009C66014DD1.text = برج پیر علمدار - سمنان - دامغان - دوره سلجوقی
+Label_ACDE0778_87B9_01FB_41D8_4BE669D0D85E.text = عمارت خسرو - کرمانشاه - قصرشیرین - دوره ساسانی
+
+### Tooltip
+Container_190CC19F_3E43_C2DC_419E_8A09F9C89F2A.toolTip = به زودی
+
+## Media
+
+### Title
+panorama_982C08E8_87D9_0F1C_41B6_C7DD1C12AA33.label = بندیان درگز
+panorama_982C09DD_87D9_0134_41D8_8E3FAE014BF1.label = دهانه غلامان
+panorama_982C1200_87D9_030C_41DC_E6F855B8B51E.label = شهر باستانی قومس
+panorama_982C159E_87D9_0137_41DA_02D931240DFB.label = خانه آقازاده
+panorama_982C2190_87D9_010C_41CB_543DBF4C3F21.label = تپه حصار
+panorama_982C3290_87DB_030B_41B1_8B05B8AC10F5.label = عمارت گوریه ایلام
+panorama_982C3F95_87D9_0135_41CC_30EFEA19A2BA.label = برج پیر علمدار
+panorama_982C48DC_87DB_0F3B_41D3_404399822EB3.label = عمارت خسرو
+panorama_982C535B_87D9_013C_41D5_02C256D04D84.label = بافت تاریخی کشیت
+panorama_982C5ECC_87D9_0314_41C5_176E997B90D6.label = بافت تاریخی مجن
+panorama_982C5F7C_87D9_01F4_41D2_4D512DCD7989.label = خانه بروجردی ها
+panorama_982C6731_87D9_010C_41C5_35063A9C9BFA.label = تپه باستانی میمون آباد
+panorama_982C7AC2_87D9_030C_41C3_C1F0BEA21DDB.label = بافت تاریخی نایین
+panorama_982C7C0F_87D9_0715_41B2_4A5EF2ED84D8.label = بافت تاریخی تهران
+panorama_982C8AA7_87DB_0315_41B3_725FD6CD05BC.label = قایق تاریخی قورق
+panorama_982C9314_87DB_0134_41C8_988B955EC956.label = قلعه سارو جنوبی
+panorama_982CB2CD_87D9_0314_41C8_A9456AB2ADDA.label = پانوراما بافت شیراز
+panorama_982CB54F_87DB_0115_41DB_365772BA8BD9.label = قلعه اورارتویی بسطام
+panorama_982CBCA5_87D9_0715_41DD_86CF2AD4FA38.label = برج مهاماندوست
+panorama_982CCD35_87D9_0175_41D8_63B19DDA97CB.label = تپه باستانی قلی درویش قم
+panorama_982CCFDA_87DB_013F_41CB_9425C419FA80.label = غار دربند
+panorama_982CE4E7_87D9_0715_41B1_BAE470B6E4EA.label = بافت همدان
+panorama_982D16DC_87D9_0334_41D9_4DAF1DE87B75.label = بافت تاریخی سرخه
+panorama_982DABBA_87D9_017F_41D1_F66E68EB2BEE.label = تپه قبرستان
+panorama_982DB331_87D9_010D_41DE_FBAD14C28DA6.label = شهر شیراز
+panorama_982DF35B_87D9_013C_4169_5523ABF73254.label = دیوار بزرگ گرگان
+panorama_982DF94C_87D9_0114_41DA_4312E2159883.label = شهر زواره
+panorama_982DFC1E_87D9_0734_41AD_A1304AB27BFA.label = شهر جرجان
+panorama_982DFD71_87D9_010D_41D5_E136E13414A5.label = شیر قلعه
+panorama_982E8F77_87DB_01F5_41C8_D9B85299EE0C.label = مسجد فرومد
+panorama_982EA401_87DB_070D_41D1_8962605029D4.label = مسجد زواره
+panorama_982EC9C8_87DB_011C_41D9_D8BDB3A5D893.label = میدان آزادی
+panorama_982ED389_87DB_011C_41CD_C37D80D00717.label = محله ارباب جمشید
+panorama_982EF900_87DB_010B_41D8_11AE2DBF3500.label = مسجد تاریخانه
+panorama_982F08E8_87DB_0F1C_41DD_F92DAE13F3B8.label = کوه خواجه
+panorama_982F0E32_87DB_030C_41BA_74BBAB2F207C.label = قصربهرام
+panorama_982F176B_87DB_011C_41DB_B0BCEDC0EC19.label = مجموعه بایزد بسطام
+panorama_982F2D9B_87DB_013D_41A8_CA9DA0302328.label = مدرس ابن سینا
+panorama_982F6CDA_87DB_073C_41CE_4318A5A65FD0.label = گوهرتپه
+panorama_982F7897_87DB_0F35_41AF_5F16FDD3C451.label = کاخ سعدآباد
+panorama_982F7E98_87DB_033C_41D7_81D4129A0FBD.label = قلعه سریزد
+panorama_982FC347_87DB_0115_41D8_E786B7792463.label = کاروانسرای میاندشت
+panorama_982FD2A8_87DB_031B_41DC_DC2082B200A3.label = گور دخمه وستمین
+panorama_982FEEE3_87DB_030C_41AB_40CE0428CB66.label = کلیسا تادئوس
+panorama_98304037_87C7_3F75_41DC_CA9C8FBB1828.label = آرامگاه شیخ حسن خرقانی
+panorama_9832444F_87C7_0715_4149_19814B398E70.label = آرامگاه خرقانی
+panorama_983325C0_87C7_010C_41D3_BD6305560E6D.label = بافت ابیانه
+panorama_98334FE1_87C7_010C_41E0_47108569E0BE.label = بافت تاریخی بیابانک سمنان
+panorama_983369E1_87C7_010D_41CD_A7436E3CE6DA.label = بازار حضرتی
+panorama_9BE0A913_87C7_010C_418F_890DFEF7E756.label = آتشکده چار تاقی
+photo_A4D0643D_83EB_B28C_41D6_90B294096D71.label = IMG_2986
+
+## Action
+
+### URL
+LinkBehaviour_0545AA52_36BF_4D5F_41C1_6BF6021860CF.source = https://archaboom.com/onlinetour/DarbandCave/
+LinkBehaviour_24BCB9D5_3E39_FB0E_41CB_5E9B18411138.source = https://archaboom.com/onlinetour/TakhteSoleyman/
+LinkBehaviour_2523DD3C_3E2B_3B7E_41C7_A7653C7D5AE1.source = https://archaboom.com/onlinetour/EbneSinaSchool/
+LinkBehaviour_25FAAE88_3E39_1905_41B2_971349A384CF.source = https://archaboom.com/onlinetour/Arbabjamshid/
+LinkBehaviour_25FE7170_3E39_0B06_41CC_DE49851016D0.source = https://archaboom.com/onlinetour/Gohartapeh/#s=pano10
+LinkBehaviour_26F61329_3E2F_0F06_4189_B82CB4559ABC.source = https://archaboom.com/onlinetour/GoreyehArchaeologicalSite/#s=pano20
+LinkBehaviour_280BE170_3E29_0B06_41A5_7A57C5513C1E.source = https://archaboom.com/onlinetour/Tarikhaneh/
+LinkBehaviour_29263F00_3E29_1706_41CB_D050FDE02DEB.source = https://archaboom.com/onlinetour/GoreyehArchaeologicalSite/#s=pahttps://archaboom.com/onlinetour/ZavarehCity/no20
+LinkBehaviour_2F7B942D_3E79_091F_41C4_2003F8D649DD.source = https://archaboom.com/onlinetour/NationalMuseum/
+LinkBehaviour_709615FD_37C1_4745_41C5_771E576A2702.source = https://archaboom.com/onlinetour/choghazanbil/#_s=pano322
+LinkBehaviour_72AA8F84_37C3_43BB_41C2_7D8687CA773D.source = https://archaboom.com/onlinetour/AghazadehMansion/
+LinkBehaviour_734F9D52_37CE_C75F_4176_351654D31458.source = https://archaboom.com/onlinetour/NaqsheJahan/
+LinkBehaviour_7385A5D7_37C1_C744_41C7_0193BA6EAD81.source = https://archaboom.com/onlinetour/BandianArchaeologicalSite/
+LinkBehaviour_744D6FEB_37C6_C34D_41B0_76A6E0F5F325.source = https://archaboom.com/onlinetour/NationalMuseum/
+LinkBehaviour_74E08115_37C3_5CC5_41A3_6FB67E10838D.source = https://archaboom.com/onlinetour/DarbandCave/
+LinkBehaviour_74F68E1D_37CF_C4C5_41C4_299BC1404E7D.source = https://archaboom.com/onlinetour/MountKhajeh/#_s=pano193
+LinkBehaviour_757C7702_37C1_44BD_41CC_4DB82D68F0A3.source = https://archaboom.com/onlinetour/Goganbigwall/
+LinkBehaviour_9D548C47_86B9_0715_41D9_51455CB03B9A.source = https://archaboom.com/onlinetour/Goganbigwall/
+LinkBehaviour_9E2934B2_86B9_070F_41C7_2FAEE63C8961.source = https://archaboom.com/onlinetour/Tarikhaneh/
+LinkBehaviour_9E2EC7EC_86B9_011B_41AB_B87F54A3AB6C.source = https://archaboom.com/onlinetour/MountKhajeh/#_s=pano193
+LinkBehaviour_9E442360_86BB_010B_41D0_4B309AB45360.source = https://archaboom.com/onlinetour/NationalMuseum/
+LinkBehaviour_9E5124CE_86C7_0717_41CC_01D40B3C4A45.source = https://archaboom.com/onlinetour/Gohartapeh/#s=pano10
+LinkBehaviour_9E51C16A_86C7_011F_41DD_5260045564A1.source = https://archaboom.com/onlinetour/TakhteSoleyman/
+LinkBehaviour_9E70ABA6_86BB_0117_41D3_5060689114EC.source = https://archaboom.com/onlinetour/AghazadehMansion/
+LinkBehaviour_9E7D3FD4_86BB_010B_41D3_C42F35AF71F0.source = https://archaboom.com/onlinetour/BandianArchaeologicalSite/
+LinkBehaviour_9EB4ECA9_86C7_071D_41DE_E74A11A3048C.source = https://archaboom.com/onlinetour/EbneSinaSchool/
+LinkBehaviour_9ED08892_86B9_0F0F_41DF_0CA61182C8BB.source = https://archaboom.com/onlinetour/GoreyehArchaeologicalSite/#s=pano20
+LinkBehaviour_9EE3AEB8_86B9_037B_41D5_8F847B7330CA.source = https://archaboom.com/onlinetour/GoreyehArchaeologicalSite/#s=pahttps://archaboom.com/onlinetour/ZavarehCity/no20
+LinkBehaviour_9EF64A4D_86C7_0315_41D5_E067711B8DAD.source = https://archaboom.com/onlinetour/Arbabjamshid/
